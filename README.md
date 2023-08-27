@@ -1,6 +1,7 @@
 # TravelEase - Your Ultimate Travel Booking Companion
 
 ![TravelEase Logo](logo.png)
+![].(Screenshot (321).png)
 
 Welcome to TravelEase, your one-stop solution for all your travel booking needs! Whether you're planning a relaxing beach getaway, an adventurous mountain trek, or a cultural city tour, TravelEase has got you covered. Our user-friendly website allows you to effortlessly browse, book, and manage your travel packages with just a few clicks.
 
