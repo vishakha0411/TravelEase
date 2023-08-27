@@ -36,7 +36,8 @@ Welcome to TravelEase, your one-stop solution for all your travel booking needs!
 - CSS3
 - JavaScript
 - Bootstrap (for responsive design)
-- Firebase (for user authentication and data storage)
+- PHP
+- SQL
 
 ## Installation
 
@@ -44,9 +45,6 @@ Welcome to TravelEase, your one-stop solution for all your travel booking needs!
 2. Open the project folder in your code editor.
 3. Start a local development server to preview and interact with the website.
 
-## Credits
-
-- Images: All images used on the website are sourced from Unsplash and are used for demonstration purposes only.
 
 ## Feedback
 
