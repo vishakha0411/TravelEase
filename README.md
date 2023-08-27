@@ -1,7 +1,6 @@
 # TravelEase - Your Ultimate Travel Booking Companion
-![Screenshot (318)](https://github.com/vishakha0411/TravelEase/assets/82572740/53f1bef2-9ec5-4a97-a3d2-c5e721b0ae53)
-![Screenshot (321)](https://github.com/vishakha0411/TravelEase/assets/82572740/91d749d5-168e-4171-a7be-4d5124efe024)
 ![Screenshot (320)](https://github.com/vishakha0411/TravelEase/assets/82572740/d4eee263-7ab2-4d37-9b9a-b26197d95e32)
+![Screenshot (321)](https://github.com/vishakha0411/TravelEase/assets/82572740/91d749d5-168e-4171-a7be-4d5124efe024)
 
 Welcome to TravelEase, your one-stop solution for all your travel booking needs! Whether you're planning a relaxing beach getaway, an adventurous mountain trek, or a cultural city tour, TravelEase has got you covered. Our user-friendly website allows you to effortlessly browse, book, and manage your travel packages with just a few clicks.
 
