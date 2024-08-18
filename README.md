@@ -48,6 +48,6 @@ Welcome to TravelEase, your one-stop solution for all your travel booking needs!
 
 ## Feedback
 
-We are always open up for suggestions. You can directly [contact us](mailto:vishakhagaurkar04@gmail.com). 
+Always open up for suggestions. You can directly [contact](mailto:vishakhagaurkar04@gmail.com). 
 
 Happy travels with TravelEase!
